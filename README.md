@@ -5,7 +5,7 @@ PART A: Multiple Linear Regression.
 The Observation of the Study
 This study was conducted to determine the the relationship between the amount of time spent on childcare or home-schooling during the UK’s coronavirus lockdown and psychological distress.
 
-The Assumption
+### The Assumption
 Regression residuals must be normally distributed.
 A linear relationship is assumed between the dependent variable and the independent variables.
 The residuals are homoscedastic and approximately rectangular-shaped.
@@ -14,7 +14,7 @@ Absence of multicollinearity is assumed in the model, meaning that the independe
 
 
 
-The hypothesis
+### The hypothesis
 The hypothesis is that time spent on childcare or home-schooling can be predicted by four or more factors namely Respondent sex, Household composition_a-(Aged 0-4), Household composition_b -(Aged 5-15), Alcohol frequency last 4 weeks, and How often feels lonely. 
 
  A table containing descriptive statistics is appended. Below Fig 1
@@ -40,7 +40,7 @@ The main effect of ca_hhcompb is statistically significant and large (F(3, 17439
  The main effect of ca_sclonely_cv is statistically significant and very small (F(5, 17439) = 24.82, p < .001; Eta2 (partial) = 7.07e-03, 95%  Confidence Intervals [4.93e-03, 1.00]).
  and suggesting that 38.2% of the variation is predicted by this listed factors.
 
-The meaning of the result 
+### The meaning of the result 
 Adding Respondent sex, Household composition_a-(Aged 0-4), Household composition_b -(Aged 5-15), Alcohol frequency last 4 weeks, and How often feels lonely to the model seems to have made the model better: it reduced the residual variance (the residual sum of squares is 2,145,680), and all the predictors are statistically significant (p-values < 0.001).
 
 The graphical summary of the result 
