@@ -114,7 +114,6 @@ nrow(cleared_data)
 # ca_timechcare" = Time spent on childcare or home schooling"
 # ca_sclonely_cv = "How often feels lonely"
 
-
 Fitting_data <- lm(ca_timechcare ~ ca_sex + ca_hhcompa + ca_hhcompb +  ca_scghq1_dv + ca_sclonely_cv, data = infer_data)
 
 # The model would be 
