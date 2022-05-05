@@ -46,10 +46,10 @@ Adding Respondent sex, Household composition_a-(Aged 0-4), Household composition
 The graphical summary of the result 
 
 
-PART B: Regression Interpretation.
-Question 2a
+### PART B: Regression Interpretation.
+### Question 2a
 Interpret the model and write a short report on the results and conclusions for employers in Ticino.Question 2bInterpret the model statistically and substantively. Your results section should report on descriptive and statistical findings.Question 2cYour conclusion should discuss whether the results support an effect of changes in exchange rates on the number of hours worked by Italian cross-borders commuters in Ticino. 
-Solution 2a
+### Solution 2a
 When the Swiss Franc is stronger, more people resident in Lombardy look for jobs in Ticino, and the number of cross-border workers increases and number of hour worked increase more for cross- border workers than for natives workers when the swiss franc appreciates. 
 
 The coefficient becomes statistically significant and increases in magnitude in correspondence with appreciation of the Swiss franc.
@@ -58,30 +58,30 @@ The results of the model show that the appreciation in the Swiss franc produces 
 
 
   Source: Swiss Earnings Structure Survey (2004–2012, biennial).
-Solution 2b
+### Solution 2b
 Descriptive statistics are shown in Table 8. 
 
 The Mean number of hours worked per month, mean age and share of women among hourly paid employees for Swiss and Italian cross-border commuters in Ticino, Switzerland
 In order to investigate the intensive labour supply response of cross-border workers, I compare the sensitivity of hours worked to changes in the exchange rate, between Swiss resident and cross-border workers on hourly employees.
 
  I estimate the following model:
- niy = α + n0CBCi + n1ln ey + n2ln ey  x  0CBCi + n3Yiy + n4Xy + n5Post 2007y+ εiy
+ - niy = α + n0CBCi + n1ln ey + n2ln ey  x  0CBCi + n3Yiy + n4Xy + n5Post 2007y+ εiy
  Where:
- CBC = dummy variable for cross-border commuter.
- CBC * ln e = is an interaction term between the dummy and the log of the exchange rate.
- Controls = dummies for sex, age, education level and sector of the firm.
- Yiy = vector of individual control variables: age, sex and education level of the worker, and the firm.
- niy = the log of the monthly (weekly).
- I = number of hours worked.
- Y = the worker interviewed in year.
- ln ey = is the log of the EUR-CHF nominal exchange rate.
- Xy = the log of Lombardy’s unemployment rate.
- Post2007y = the log of the Italian GDP and and include a dummy for the period after 2007.
- ε =  Robust standard error.
+  - CBC = dummy variable for cross-border commuter.
+  - CBC * ln e = is an interaction term between the dummy and the log of the exchange rate.
+  - Controls = dummies for sex, age, education level and sector of the firm.
+  - Yiy = vector of individual control variables: age, sex and education level of the worker, and the firm.
+  - niy = the log of the monthly (weekly).
+  - I = number of hours worked.
+  - Y = the worker interviewed in year.
+  - ln ey = is the log of the EUR-CHF nominal exchange rate.
+  - Xy = the log of Lombardy’s unemployment rate.
+  - Post2007y = the log of the Italian GDP and and include a dummy for the period after 2007.
+  - ε =  Robust standard error.
 
 The results, which are reported in Table above, show that cross-border workers paid on an hourly basis respond strongly to the Swiss franc appreciation. Specifically, the average number of hours worked increases by 11% more for cross-border workers than for natives when the Swiss franc appreciates by 10%. The coefficient of the interaction term in the column regarding wage workers is also significant but closer to 0
 
-Solution 2c
+### Solution 2c
 In conclusion It is reasonable to assume that the introduction of free movement of persons enabled cross-border employees to fully respond to fluctuations in the EUR/CHF exchange rate, which made Swiss wages increasingly appealing to Italian workers.
 
 results suggest that the average number of hours worked by cross-border workers paid on an hourly basis increases when the purchasing power of their wages in their home country increases. 
