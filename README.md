@@ -46,9 +46,18 @@ Adding Respondent sex, Household composition_a-(Aged 0-4), Household composition
 The graphical summary of the result 
 
 
-### PART B: Regression Interpretation.
+## PART B: Regression Interpretation.
 ### Question 2a
-Interpret the model and write a short report on the results and conclusions for employers in Ticino.Question 2bInterpret the model statistically and substantively. Your results section should report on descriptive and statistical findings.Question 2cYour conclusion should discuss whether the results support an effect of changes in exchange rates on the number of hours worked by Italian cross-borders commuters in Ticino. 
+Interpret the model and write a short report on the results and conclusions for employers in Ticino.
+
+### Question 2b
+
+Interpret the model statistically and substantively. Your results section should report on descriptive and statistical findings.
+
+### Question 2c
+
+Your conclusion should discuss whether the results support an effect of changes in exchange rates on the number of hours worked by Italian cross-borders commuters in Ticino. 
+
 ### Solution 2a
 When the Swiss Franc is stronger, more people resident in Lombardy look for jobs in Ticino, and the number of cross-border workers increases and number of hour worked increase more for cross- border workers than for natives workers when the swiss franc appreciates. 
 
