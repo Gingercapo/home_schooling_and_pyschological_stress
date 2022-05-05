@@ -10,7 +10,7 @@ Regression residuals must be normally distributed.
 A linear relationship is assumed between the dependent variable and the independent variables.
 The residuals are homoscedastic and approximately rectangular-shaped.
 Absence of multicollinearity is assumed in the model, meaning that the independent variables are not too highly correlated.
-
+http://jjjjj
 
 
 The hypothesis
