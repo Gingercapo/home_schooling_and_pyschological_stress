@@ -1,8 +1,8 @@
 # home_schooling_and_pyschological_stress
 
-Predicting the relationship between Time spent on childcare or home-schooling during the UK’s coronavirus lockdown and psychological distress.
-PART A: Multiple Linear Regression.
-The Observation of the Study
+## PART A: Multiple Linear Regression.
+
+### The Observation of the Study
 This study was conducted to determine the the relationship between the amount of time spent on childcare or home-schooling during the UK’s coronavirus lockdown and psychological distress.
 
 ### The Assumption
