@@ -7,9 +7,9 @@ This study was conducted to determine the the relationship between the amount of
 
 ### The Assumption
 Regression residuals must be normally distributed.
-A linear relationship is assumed between the dependent variable and the independent variables.
-The residuals are homoscedastic and approximately rectangular-shaped.
-Absence of multicollinearity is assumed in the model, meaning that the independent variables are not too highly correlated.
+- A linear relationship is assumed between the dependent variable and the independent variables.
+- The residuals are homoscedastic and approximately rectangular-shaped.
+- Absence of multicollinearity is assumed in the model, meaning that the independent variables are not too highly correlated.
 <img width="756" alt="Screenshot 2022-05-05 at 17 21 17" src="https://user-images.githubusercontent.com/56441231/166968351-56d2e6f5-1129-4b82-8f88-9822f614d5ec.png">
 
 
